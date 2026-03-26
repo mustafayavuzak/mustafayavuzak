@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=AE00FF&center=true&vCenter=true&width=500&lines=Mustafa+Yavuz+Ak;127.0.0.1;Building+things+that+matter.)](https://github.com/mustafayavuzak)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=ff0051&center=true&vCenter=true&width=500&lines=Mustafa+Yavuz+Ak;127.0.0.1;Building+things+that+matter.)](https://github.com/mustafayavuzak)
 
 </div>
 
@@ -54,18 +54,18 @@
 <tr>
 <td>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafayavuzak&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=AE00FF&icon_color=AE00FF&text_color=ffffff&ring_color=AE00FF)](https://github.com/mustafayavuzak)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafayavuzak&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0051&icon_color=ff0051&text_color=ffffff&ring_color=ff0051)](https://github.com/mustafayavuzak)
 
 </td>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafayavuzak&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=AE00FF&text_color=ffffff)](https://github.com/mustafayavuzak)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafayavuzak&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0051&text_color=ffffff)](https://github.com/mustafayavuzak)
 
 </td>
 </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mustafayavuzak&theme=radical&hide_border=true&background=0d0d0d&ring=AE00FF&fire=AE00FF&currStreakLabel=AE00FF)](https://github.com/mustafayavuzak)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mustafayavuzak&theme=radical&hide_border=true&background=0d0d0d&ring=ff0051&fire=ff0051&currStreakLabel=ff0051)](https://github.com/mustafayavuzak)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mustafayavuzak&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=8)](https://github.com/mustafayavuzak)
 
@@ -77,10 +77,10 @@
 
 ### ◈ Featured
 
-[![Afterlife](https://github-readme-stats.vercel.app/api/pin/?username=mustafayavuzak&repo=Afterlife&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=AE00FF&icon_color=AE00FF&text_color=ffffff)](https://github.com/mustafayavuzak/Afterlife)
+[![Afterlife](https://github-readme-stats.vercel.app/api/pin/?username=mustafayavuzak&repo=Afterlife&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0051&icon_color=ff0051&text_color=ffffff)](https://github.com/mustafayavuzak/Afterlife)
 
-![PyPI](https://img.shields.io/pypi/v/afterlife?style=for-the-badge&logo=pypi&logoColor=white&color=AE00FF&labelColor=0d0d0d)
-![PyPI Downloads](https://img.shields.io/pypi/dm/afterlife?style=for-the-badge&logo=pypi&logoColor=white&color=AE00FF&labelColor=0d0d0d)
+![PyPI](https://img.shields.io/pypi/v/afterlife?style=for-the-badge&logo=pypi&logoColor=white&color=ff0051&labelColor=0d0d0d)
+![PyPI Downloads](https://img.shields.io/pypi/dm/afterlife?style=for-the-badge&logo=pypi&logoColor=white&color=ff0051&labelColor=0d0d0d)
 
 </div>
 
@@ -90,20 +90,20 @@
 
 ### ◈ Stack
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=AE00FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=AE00FF)
-![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=AE00FF)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=AE00FF)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=AE00FF)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=AE00FF)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=AE00FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=AE00FF)
-![Jinja2](https://img.shields.io/badge/Jinja2-0d0d0d?style=for-the-badge&logo=jinja&logoColor=AE00FF)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=AE00FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=AE00FF)
-![REST API](https://img.shields.io/badge/REST_API-0d0d0d?style=for-the-badge&logoColor=AE00FF)
-![Swiss Ephemeris](https://img.shields.io/badge/Swiss_Ephemeris-0d0d0d?style=for-the-badge&logoColor=AE00FF)
-![PyPI](https://img.shields.io/badge/PyPI-0d0d0d?style=for-the-badge&logo=pypi&logoColor=AE00FF)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0051)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0051)
+![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=ff0051)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=ff0051)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff0051)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff0051)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=ff0051)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=ff0051)
+![Jinja2](https://img.shields.io/badge/Jinja2-0d0d0d?style=for-the-badge&logo=jinja&logoColor=ff0051)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff0051)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=ff0051)
+![REST API](https://img.shields.io/badge/REST_API-0d0d0d?style=for-the-badge&logoColor=ff0051)
+![Swiss Ephemeris](https://img.shields.io/badge/Swiss_Ephemeris-0d0d0d?style=for-the-badge&logoColor=ff0051)
+![PyPI](https://img.shields.io/badge/PyPI-0d0d0d?style=for-the-badge&logo=pypi&logoColor=ff0051)
 
 </div>
 
