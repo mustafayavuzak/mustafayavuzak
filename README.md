@@ -6,9 +6,9 @@
 
 <div align="center">
 
-### **Entrepreneur & Full-Stack Developer**
+### **Hey. Nice to meet you!**
 
-19-year-old Turkish solopreneur. Every day I push myself one step closer to the top in software, on my own terms.
+I am a 19-year-old Turkish solopreneur. Every day I push myself one step closer to the top in software, on my own terms.
 
 </div>
 
