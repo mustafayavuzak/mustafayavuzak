@@ -6,17 +6,9 @@
 
 <div align="center">
 
-# Mustafa Yavuz Ak
-
 **Entrepreneur & Full-Stack Developer**
 
-</div>
-
----
-
-<div align="center">
-
-19-year-old Turkish solopreneur. Every day I push myself one step closer to the top in software — on my own terms.
+19-year-old Turkish solopreneur. Every day I push myself one step closer to the top in software, on my own terms.
 
 </div>
 
