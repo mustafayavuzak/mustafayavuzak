@@ -34,7 +34,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=ff0051&center=true&vCenter=true&width=500&lines=Mustafa+Yavuz+Ak;127.0.0.1;Building+things+that+matter.)](https://github.com/mustafayavuzak)
+# Mustafa Yavuz Ak
+
+**19 · TR · Solopreneur**
+
+Kendi kurallarımla, kendi hızımda. Bir ürün çıkarmak için izin istemiyorum.
 
 </div>
 
