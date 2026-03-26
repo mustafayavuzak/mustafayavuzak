@@ -44,10 +44,10 @@
 
 <div align="center">
 
-Solopreneur. Full-stack developer. I build scalable systems — on my own terms.
+19. Full-stack. I build things solo, the way I want them built.
 
-Precision-driven by nature, shaped by aviation and astronomy.
-I don't ship fragments. I ship things that last.
+Aviation and astronomy taught me that small details break whole systems.
+So I get the details right.
 
 </div>
 
