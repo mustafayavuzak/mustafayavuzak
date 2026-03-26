@@ -92,5 +92,3 @@ I am a 19-year-old Turkish solopreneur. Every day I push myself one step closer 
 </div>
 
 ---
-
-<div align="center"><sub><code>Munich, DE · UTC+3 origin</code></sub></div>
