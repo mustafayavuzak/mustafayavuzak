@@ -16,10 +16,7 @@
 
 <div align="center">
 
-19. Full-stack. I build things solo, the way I want them built.
-
-Aviation and astronomy taught me that small details break whole systems.
-So I get the details right.
+19-year-old Turkish solopreneur. Every day I push myself one step closer to the top in software — on my own terms.
 
 </div>
 
