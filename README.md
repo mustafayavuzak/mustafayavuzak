@@ -1,38 +1,6 @@
 <div align="center">
 
-```
-                                                    ?@7
-                                                  !&@#.
-                                  :.            ~#@@G                             .:
-                               .Y&@&          .G#&@J                            .5@@:
-                              Y&5P@?         Y#?G@7                           .Y&@@7
-                            J&P..@G        7&Y.B@^                           J&55@Y
-                          7&G: .@#       :#B..&&.                          !&B.^@P
-                        ^#B^   #@.     .P&~ :@&.                      :: :#&~ :@B
-                      .G#~    B@:     7&Y  :@#                       J5:P&?  .@&
-                     5&?     5@~    :#B.  ^@B                      .GJ7&P    &@.
-                   7&5      Y@!    5&!   :@#    .!       ~Y.      !#YB#:    G@:
-                 ^#B:      !@Y   ~&P.   :@#    7@Y     :B@#      5&B&?     ?@7
-               .P#!       ^@P  .G&~     &@    5@!    .P@@B     :#@&G.     ^@&?YPPPPY?!~:.
-              ?&Y        .@#  7&5      G@:   5@~   .P&#@G   .^P@@&~  :!JPB@@Y!^.
-            :#B.        .&& .B&^      ~@Y   ?@!  :G&J?@P .!?!B@@@55BG5?^.5@7
-          .5&~          B@:J@Y        #@    @&:7B#? !@&7YJ!7#@@&G?:     .@#
-         !&Y           Y@G&#:         @Y    Y#B5^  Y@#775Y&@@P..:^!7!:  ?@~
-       :BB.           ~@@@?           #Y         ~B@?    Y@&^       .J5.&&
-      Y&!             ?&Y.             ~      .?B@@~   .#@5           7@@J
-    !#Y                                     :5Y7&&:   ^@@~             B&.
- .~BP.                                    ^P5.:&&.   ^@B.
- JJ.                                    :P5. ~@B
-                                      .5G:  Y@Y
-                                     7B!   G@7
-                                   .GG.  .&&:
-                                  :&?   7@G
-                                 ~&^   G@?
-                                :&^  ~&#.
-                                &J :G&7
-                               ^@JP&Y
-                                ?5!
-```
+![Background](https://raw.githubusercontent.com/mustafayavuzak/mustafayavuzak/main/Background.png)
 
 </div>
 
