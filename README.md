@@ -47,19 +47,6 @@ I am a 19-year-old Turkish solopreneur. Every day I push myself one step closer 
 
 <div align="center">
 
-### ◈ Featured
-
-[![Afterlife](https://github-readme-stats.vercel.app/api/pin/?username=mustafayavuzak&repo=Afterlife&hide_border=true&bg_color=0d0d0d&title_color=ff0051&icon_color=ff0051&text_color=ffffff)](https://github.com/mustafayavuzak/Afterlife)
-
-![PyPI](https://img.shields.io/pypi/v/afterlife?style=for-the-badge&logo=pypi&logoColor=white&color=ff0051&labelColor=0d0d0d)
-![PyPI Downloads](https://img.shields.io/pypi/dm/afterlife?style=for-the-badge&logo=pypi&logoColor=white&color=ff0051&labelColor=0d0d0d)
-
-</div>
-
----
-
-<div align="center">
-
 ### ◈ What I Work With
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0051)
