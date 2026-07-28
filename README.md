@@ -23,7 +23,7 @@ A social platform built on a point economy. Members earn, spend and transfer poi
 
 | Database tables | Endpoints | Subdomains | Status |
 |---|---|---|---|
-| 60 | 402 | 7 | Opening January 2027 |
+| 60 | 402 | 6 | Opening January 2027 |
 
 [basarimiladi.com](https://basarimiladi.com)
 
