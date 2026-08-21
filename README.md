@@ -33,7 +33,7 @@ An astrology calculation engine that runs on its own core. I wrote the C kernel 
 
 | Lines of C | Celestial bodies | RMS vs NASA JPL | Full natal chart |
 |---|---|---|---|
-| ~18,900 | 29.143 | 0.11″ to 0.19″ | 0.12 ms |
+| ~18,900 | 1308 | 0.11″ to 0.19″ | 0.12 ms |
 
 <details>
 <summary><b>Accuracy: audited against NASA JPL Horizons, 1900 to 2100</b></summary>
