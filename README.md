@@ -23,7 +23,7 @@ A social platform built on a point economy. Members earn, spend and transfer poi
 
 | Database tables | Endpoints | Subdomains | Status |
 |---|---|---|---|
-| 60 | 402 | 6 | Opening January 2027 |
+| 60 | 402 | 6 | In development |
 
 [basarimiladi.com](https://basarimiladi.com)
 
@@ -94,7 +94,7 @@ Every call uses a different instant, scattered across 1960 to 2020. A repeated m
 
 <img src="https://mustafayavuzak.com/static/img/gh/saturnempire.jpg" alt="Saturn Empire, software company" width="100%">
 
-My company. We build AI-integrated web software for businesses, and we operate what we ship. The engineering below is what a client gets, pointed at their problem.
+My company. We build AI-integrated web software for businesses, and we operate what we ship.
 
 [saturnempire.com](https://saturnempire.com)
 
@@ -107,40 +107,6 @@ My company. We build AI-integrated web software for businesses, and we operate w
 **Numerical computation.** A C library that reads JPL ephemeris files, with its own Kepler solver for elliptic and hyperbolic orbits. Output verified against NASA JPL Horizons.
 
 **Infrastructure.** Nginx, systemd, Cloudflare, PostgreSQL, Redis, Celery, Prometheus. I install them and I operate them.
-
-| Layer | Tools |
-|:---|:---|
-| **Languages** | <img src="https://img.shields.io/badge/Python-0b0b0d?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C-0b0b0d?style=flat-square&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/JavaScript-0b0b0d?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/SQL-0b0b0d?style=flat-square" alt="SQL"> |
-| **Backend** | <img src="https://img.shields.io/badge/FastAPI-0b0b0d?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/PostgreSQL-0b0b0d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-0b0b0d?style=flat-square&logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/Celery-0b0b0d?style=flat-square&logo=celery&logoColor=white" alt="Celery"> |
-| **Real-time** | <img src="https://img.shields.io/badge/WebRTC-0b0b0d?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"> <img src="https://img.shields.io/badge/mediasoup-0b0b0d?style=flat-square" alt="mediasoup"> <img src="https://img.shields.io/badge/WebSocket-0b0b0d?style=flat-square" alt="WebSocket"> |
-| **Frontend** | <img src="https://img.shields.io/badge/HTML-0b0b0d?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-0b0b0d?style=flat-square&logo=css&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/SVG-0b0b0d?style=flat-square&logo=svg&logoColor=white" alt="SVG"> |
-| **Ops** | <img src="https://img.shields.io/badge/Linux-0b0b0d?style=flat-square&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Nginx-0b0b0d?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/Docker-0b0b0d?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Cloudflare-0b0b0d?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Prometheus-0b0b0d?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"> <img src="https://img.shields.io/badge/systemd-0b0b0d?style=flat-square" alt="systemd"> |
-
-<details>
-<summary><b>The monitor behind those badges</b></summary>
-
-<br>
-
-```
-GET https://mustafayavuzak.com/status/projects.json
-GET https://mustafayavuzak.com/status/{project}/badge.json
-```
-
-Both read from memory and never block on the network. The probe runs as its own asyncio task and hits each upstream directly, skipping the CDN round trip. A gateway error counts as offline. The task is cancelled cleanly on shutdown.
-
-The badge answers in the shields.io endpoint schema, and the styling is decided on my server.
-
-```json
-{"schemaVersion": 1, "label": "basarimiladi.com", "message": "live", "color": "ff0051"}
-```
-
-</details>
-
-> I handle the design, the development and the system administration myself.
->
-> The performance and accuracy figures I publish are measured results, and the method sits beside them.
->
-> I also operate the systems I deliver.
 
 <img src="https://mustafayavuzak.com/static/img/gh/contact.jpg" alt="Contact" width="100%">
 
