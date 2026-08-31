@@ -92,12 +92,6 @@ Every call uses a different instant, scattered across 1960 to 2020. A repeated m
 
 [astromansion.com](https://astromansion.com) · [API docs](https://astromansion.com/en/docs) · [Swagger](https://api.astromansion.com/docs)
 
-<img src="https://mustafayavuzak.com/static/img/gh/saturnempire.jpg" alt="Saturn Empire, software company" width="100%">
-
-My company. We build AI-integrated web software for businesses, and we operate what we ship.
-
-[saturnempire.com](https://saturnempire.com)
-
 <img src="https://mustafayavuzak.com/static/img/gh/engineering.jpg" alt="Engineering" width="100%">
 
 **Systems under load.** Atomic database operations, row locks, append-only ledgers, idempotency keys. Running the same job twice has no additional effect.
